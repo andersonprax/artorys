@@ -1,0 +1,4 @@
+.fundo {
+    background-image:  url('../imagem/fundo.png');
+    background-attachment: fixed;
+}

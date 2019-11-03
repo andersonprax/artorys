@@ -1,0 +1,70 @@
+.conteudo {
+    width: 100%;
+    margin: auto;
+    margin-top: 40px;
+    height: 100%;
+}
+
+.navegacao-lateral{
+    width: 20%;
+    float: right;
+    height: 100%;
+}
+
+.formulario-login {
+    margin: auto;
+    padding: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 0px 0px 1px 0px;
+
+}
+
+.formulario-login form p {
+    font-family: 'Cinzel';
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.largura-conteudo {
+    width: 80%;
+    margin: auto;
+}
+
+.conteudo-pincipal{
+    width: 80%;
+    border-style: solid;
+    border-color: black;
+    border-width: 0px 2px 0px 0px;    
+}
+
+ 
+.botao {
+    width: 140px;
+    height: 35px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px 2px 2px 2px;
+    background-color: white;
+    color: black;
+    font-family: 'Cinzel';
+}
+
+.botao:hover{
+  background-color: black;
+  color: white;  
+}
+
+.redes-sociais{
+    margin: 15px;
+}
+
+.redes-sociais a {
+	text-decoration:none;
+}
+
+.redes-sociais img{
+    width: 30px;
+    height: 30px;
+}
+

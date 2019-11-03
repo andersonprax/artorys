@@ -1,0 +1,12 @@
+#rodape-pagina{
+    background-color: black;
+    color: #F2FFFC;
+    padding: 15px;
+    position: inherit;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    clear: left;
+    clear: right;
+
+}

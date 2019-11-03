@@ -1,0 +1,96 @@
+.cabecalho-formulario {
+    position: inherit;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    background-color: black;
+    color: white;
+    top: 0px;
+}
+
+h1 {
+    top: 10px;
+    color: white;
+    font-family: 'Cinzel';
+    font-size: 25px;
+}
+.cadastrar {
+    width: 200px;
+    height: 35px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px 2px 2px 2px;
+    background-color: white;
+    color: black;
+    font-family: 'Cinzel';
+    clear: left;
+    clear: right;
+}
+
+
+.cadastrar:hover{
+  background-color: black;
+  color: white;  
+}
+
+.conteudo-pincipal {
+    width: 70%;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px 2px 2px 2px;  
+    padding: 20px;
+    margin: auto;
+}
+
+
+
+input {
+
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 1px 1px 1px;
+}
+
+label {
+    font-family: 'Cinzel';
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.endereco div{
+    margin: 10px;
+    float: left;
+}
+
+.cep{
+    width: 160px;
+}
+
+.rua {
+    width: 410px;
+}
+
+.numero {
+    width: 100px;
+}
+
+.complemento {
+    width: 470px;
+}
+
+.div-cartao div {
+    float: left;
+    margin: 10px;
+}
+
+.numero-cartao {
+    width: 350px;
+}
+
+.email-senha {
+    clear: both;
+}
+
+.email {
+    width: 482px;
+}

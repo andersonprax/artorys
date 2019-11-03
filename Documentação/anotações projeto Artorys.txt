@@ -1,0 +1,9 @@
+https://github.com/caioenio/artorys_projeto
+
+Banco de dados Postegree
+
+senha 1234
+porta 5432
+
+desisntalar e apagar tudo do postgree
+

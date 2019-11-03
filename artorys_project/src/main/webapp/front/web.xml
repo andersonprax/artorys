@@ -1,0 +1,27 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>ServletCadastro</servlet-name>
+  	<display-name>ServletCadastro</display-name>
+  	<description></description>
+  	<servlet-class>br.com.artorys.servlets.ServletCadastro</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ServletTela</servlet-name>
+  	<display-name>ServletTela</display-name>
+  	<description></description>
+  	<servlet-class>br.com.artorys.servlets.ServletTela</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>ServletCadastro</servlet-name>
+  	<url-pattern>/ServletCadastro</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ServletTela</servlet-name>
+  	<url-pattern>/ServletTela</url-pattern>
+  </servlet-mapping>
+</web-app>
